@@ -1,6 +1,6 @@
 # <p align = "center">👀 Preview 👀</p>
 
-![alt text](https://github.com/nikbgn/30-Days-of-JS/blob/main/AJAX%20TYPE%20AHEAD/finalLook.jpg)
+![alt text](https://github.com/nikbgn/30-Days-of-JS/blob/main/AJAX%20Type%20Ahead/finalLook.jpg)
 
 ## <p align = "center">🏙️ City & State Searchbar 🏙️ </p>
 
